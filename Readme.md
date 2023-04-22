@@ -1,5 +1,5 @@
 # Disney+ Clone
-Recriando a página inicial da plataforma de stream Disney+ .
+Recriando a página inicial da plataforma de stream Disney+
 
 
 
